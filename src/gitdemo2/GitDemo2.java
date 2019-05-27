@@ -14,6 +14,6 @@ public class GitDemo2
       System.out.println("This is a test file");
       System.out.println("Hello World");
       System.out.println("This is the third line");
-      System.out.println("pulling");
+      //System.out.println("pulling");
    }
 }
